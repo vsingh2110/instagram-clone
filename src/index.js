@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './wdyr'
+
 import App from './App';
 import { firebase, FieldValue } from './lib/firebase';
 import FirebaseContext from './context/firebase';
